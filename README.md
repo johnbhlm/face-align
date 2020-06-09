@@ -1,5 +1,3 @@
-**转载请注明作者和出处：** http://blog.csdn.net/john_bh/
-@[toc]
 
 **人脸关键点检测相关文献。持续更新中~~**
 ## Arxiv
